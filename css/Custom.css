@@ -1,0 +1,34 @@
+/*
+ *CreeperOS CSS: estilos (main css)
+ *(c) 2016 Rafael PacMe <rafy.pachecomendez@gmail.com>
+ *(c) 2016 Carlos Arriaga <carlosarriagacm@gmail.com>
+ */
+
+html,
+body {
+    position: relative;
+    width: 100%;
+    min-height: auto;
+    text-align: center;
+    background:#8BC34A;
+    background-position: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+	width: 100%;
+    height: 100%;
+    font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
+}
+.contenedor2 {
+	width:100%;
+	max-width:1000%;
+	margin:auto;
+}
+header .logo2 {
+	color: #ffffff;
+	text-align: left;
+	font-size: 30px;
+	line-height: 100px;
+    background: #689F38;
+}
