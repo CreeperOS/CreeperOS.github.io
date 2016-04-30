@@ -15,7 +15,7 @@ section {
 .iceberg {
     position: relative;
     align-items: center;
-    margin-left: 7%;
+    margin-left: 8.5%;
   animation: float 4s ease-in-out infinite;
 }
 .iceberg span {
